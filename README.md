@@ -1,3 +1,5 @@
+# CapyKing10
+> i just code for fun.
 - 👋 Hi, I’m @CapyKing10
 - 👀 I’m interested in mineflayer and discord bots
 - 🌱 I’m currently learning javascript
