@@ -1,7 +1,7 @@
 ## CapyKing10
 > i just code for fun.
 
-![](https://komarev.com/ghpvc/?username=CapyKing10)
+![](https://komarev.com/ghpvc/?username=CapyKing10&color=lightgrey&style=for-the-badge)
 
 - 👋 Hi, I’m @CapyKing10
 - 👀 I’m interested in mineflayer and discord bots
