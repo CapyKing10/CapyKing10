@@ -2,6 +2,8 @@
 > i just code for fun.
 
 ![](https://komarev.com/ghpvc/?username=CapyKing10&color=lightgrey&style=for-the-badge)
+[![https://github.com/CapyKing10](https://github.com/CapyKing10/CapyKing10/blob/main/README.md)](https://github.com/CapyKing10)
+
 
 - 👋 Hi, I’m @CapyKing10
 - 👀 I’m interested in mineflayer and discord bots
