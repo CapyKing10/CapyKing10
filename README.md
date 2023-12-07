@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **my past failed projects**
 
-- 📫 How to reach me **discord: capyking10**
+- 📫 Reach me on Discord: **capyking10**
 
 - ⚡ Fun fact **People say im retarded but i am not (real)**
 
