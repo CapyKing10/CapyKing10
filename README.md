@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capyking10&label=Profile%20views&color=0e75b6&style=flat" alt="capyking10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=capyking10" alt="capyking10" /></a> </p>
-
 - 🔭 I’m currently working on [CapyAddon](https://github.com/CapyKing10/CapyAddon)
 
 - 🌱 I’m currently learning **Java**
