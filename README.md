@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on [nothing](nothing)
-
-- 🤝 I’m looking for help with [nothing atm](nothing)
-
 - 👨‍💻 All of my projects are available on my github [https://github.com/CapyKing10/](https://github.com/CapyKing10/)
 
 - 📝 I regularly write articles on The 6b6t Wiki [https://6b6t-wiki.vercel.app/](https://6b6t-wiki.vercel.app/)
@@ -18,8 +14,6 @@
 - 💬 Ask me about **mineflayer bots**
 
 - 📫 How to reach me **capybara6420@gmail.com**
-
-- 📄 Know about my experiences [none](none)
 
 - ⚡ Fun fact **i play minecraft**
 
