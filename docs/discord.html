@@ -79,7 +79,7 @@
             margin-top: 20px;
         }
 
-        button {
+        .buttons button {
             background-color: rgba(148, 0, 211, 0.8);
             color: white;
             padding: 10px 20px; /* Larger padding for bigger button */
@@ -87,9 +87,8 @@
             border: none;
             border-radius: 20px; /* Rounded edges */
             cursor: pointer;
-            margin-left: 15px;
         }
-        button:hover {
+        .buttons button:hover {
             background-color: rgba(148, 0, 211, 1); /* Darker color on hover */
         }
     </style>
@@ -102,8 +101,10 @@
         <h1>CapyKing10</h1>
         <p>dont question this page</p>
         <p>Join discord server:</p>
-        <a href="https://www.dsc.gg/capyking10">discord link!</a>
-        <button onclick="window.location.href = 'index.html';">Home</button>
+        <div class="buttons">
+            <a href="https://www.dsc.gg/capyking10" target="_blank"><button>discord link!</button></a>
+            <button onclick="window.location.href = 'index.html';">Home</button>
+        </div>
     </div>
 </body>
 </html>
