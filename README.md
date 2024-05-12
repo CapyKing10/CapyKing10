@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **mineflayer bots**
 
-- 📫 How to reach me **capybara6420@gmail.com**
+- 📫 How to reach me **capybara6420@gmail.com** & [**my discord**](https://discord.gg/m9WrVRqTXA)
 
 - ⚡ Fun fact **i play minecraft**
 
