@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CapyKing10 | Discord</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            background-color: #000;
+        }
+
+        video {
+            position: fixed;
+            top: 0;
+            left: 0;
+            min-width: 100%;
+            min-height: 100%;
+            z-index: -1;
+        }
+
+        .container {
+            background-color: rgba(0, 0, 0, 0.6);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(148, 0, 211, 0.7);
+            margin-bottom: 40px;
+            animation: glowing 2s infinite;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+
+        @keyframes glowing {
+            0% {
+                box-shadow: 0 0 5px rgba(148, 0, 211, 0.8), 0 0 10px rgba(148, 0, 211, 0.8), 0 0 15px rgba(148, 0, 211, 0.8);
+            }
+            50% {
+                box-shadow: 0 0 10px rgba(148, 0, 211, 0.8), 0 0 15px rgba(148, 0, 211, 0.8), 0 0 20px rgba(148, 0, 211, 0.8);
+            }
+            100% {
+                box-shadow: 0 0 5px rgba(148, 0, 211, 0.8), 0 0 10px rgba(148, 0, 211, 0.8), 0 0 15px rgba(148, 0, 211, 0.8);
+            }
+        }
+
+        h1 {
+            font-size: 2em;
+            margin-bottom: 10px;
+            color: #fff;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+        }
+
+        p {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+            color: #fff;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+        }
+
+        a {
+            color: #9a32cd;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            color: #ffffff;
+        }
+
+        img {
+            width: 50px;
+            height: 50px;
+            margin-top: 20px;
+        }
+
+        button {
+            background-color: rgba(148, 0, 211, 0.8);
+            color: white;
+            padding: 10px 20px; /* Larger padding for bigger button */
+            font-size: 16px; /* Larger font size */
+            border: none;
+            border-radius: 20px; /* Rounded edges */
+            cursor: pointer;
+            margin-left: 15px;
+        }
+        button:hover {
+            background-color: rgba(148, 0, 211, 1); /* Darker color on hover */
+        }
+    </style>
+</head>
+<body>
+    <video autoplay loop muted>
+        <source src="static/video/video.mp4" type="video/mp4">
+    </video>
+    <div class="container">
+        <h1>CapyKing10</h1>
+        <p>dont question this page</p>
+        <p>Join discord server:</p>
+        <a href="https://www.dsc.gg/capyking10">discord link!</a>
+        <button onclick="window.location.href = 'index.html';">Home</button>
+    </div>
+</body>
+</html>
